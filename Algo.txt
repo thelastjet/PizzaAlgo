@@ -1,2 +1,5 @@
 Step 1: Order pizza from Dominos
 Step 2: Wait for pizza to arrive
+    Step 2a: If wrong pizza arrives, ask delivery driver to bring you a new pizza.
+Step 3: When you have the correct pizza, pay for the pizza, thank and tip the driver.
+Step 4: Go enjoy your pizza with your family!
